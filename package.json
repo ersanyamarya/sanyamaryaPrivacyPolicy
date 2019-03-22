@@ -1,0 +1,23 @@
+{
+	"name": "sanyamarya",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"deploy": "gh-pages -d dist"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:ersanyamarya/sanyamaryaPrivacyPolicy.git"
+	},
+	"author": "Sanyam Arya",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ersanyamarya/sanyamaryaPrivacyPolicy/issues"
+	},
+	"homepage": "https://ersanyamarya.github.io/sanyamaryaPrivacyPolicy",
+	"dependencies": {},
+	"devDependencies": {
+		"gh-pages": "^2.0.1"
+	}
+}
